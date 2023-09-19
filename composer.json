@@ -1,5 +1,5 @@
 {
-    "name": "erkurn/filament-address-picker",
+    "name": "dynamo6/filament-address-picker",
     "description": "Pick Or Auto Complete Address For Filament Field",
     "keywords": [
         "erkurn",
@@ -12,6 +12,11 @@
         {
             "name": "Rezza Kurniawan",
             "email": "rezza.kurniawan@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Mark Oliver Brawn",
+            "email": "mark@dynamo6.com",
             "role": "Developer"
         }
     ],
