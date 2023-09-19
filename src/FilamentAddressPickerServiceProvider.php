@@ -2,7 +2,8 @@
 
 namespace Erkurn\FilamentAddressPicker;
 
-use Filament\PluginServiceProvider;
+// use Filament\PluginServiceProvider;
+use Filament\FilamentServiceProvider as PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
 
 class FilamentAddressPickerServiceProvider extends PluginServiceProvider
