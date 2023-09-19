@@ -25,7 +25,7 @@
         "geocoder-php/cache-provider": "^4.4",
         "geocoder-php/chain-provider": "^4.0",
         "geocoder-php/geo-plugin-provider": "^4.0",
-        "geocoder-php/google-maps-provider": "^4.0",
+        "geocoder-php/google-maps-provider": "^4.0|^5.0",
         "guzzlehttp/psr7": "*",
         "http-interop/http-factory-guzzle": "^1.0",
         "illuminate/cache": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
